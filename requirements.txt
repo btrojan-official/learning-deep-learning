@@ -1,0 +1,24 @@
+torch --index-url https://download.pytorch.org/whl/cu128
+torchvision --index-url https://download.pytorch.org/whl/cu128
+numpy
+scikit-learn
+xgboost
+catboost
+lightgbm
+transformers
+sentence-transformers
+trl
+matplotlib
+plotly
+seaborn
+spacy
+nltk
+gensim
+opencv-python
+Pillow
+scikit-image
+datasets
+evaluate
+pandas
+tqdm
+scipy

@@ -6,6 +6,7 @@ xgboost
 catboost
 lightgbm
 transformers
+diffusers
 sentence-transformers
 trl
 matplotlib
